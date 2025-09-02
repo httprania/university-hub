@@ -1,4 +1,3 @@
-# university-hub
 <html>
 
 <head>
